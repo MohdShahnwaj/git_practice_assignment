@@ -7,7 +7,7 @@ function Palindrome(string){
         console.log("Palindrome");
     }
     else{
-        console.log("Not a Palindrome);
+        console.log("Not a Palindrome");
     }
 }
 let str="amma";
