@@ -9,7 +9,7 @@ function checkPrime(num){
         console.log("Prime");
     }
     else{
-        console.log("Not a Prime);
+        console.log("Not a Prime");
     }
 }
 checkPrime(7);
